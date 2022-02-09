@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charliedaley97
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
